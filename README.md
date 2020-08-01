@@ -1,3 +1,5 @@
+#Omega Flix working on https://omega-flix.vercel.app/ [Credits to Alura]
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
